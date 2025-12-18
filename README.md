@@ -13,7 +13,7 @@
   </p>
 
   <h4>
-    <a href="https://job-huntly-five.vercel.app/">View Demo</a>
+    <a href="[https://job-huntly-five.vercel.app/](https://tubular-conkies-d72f30.netlify.app/)">View Demo</a>
     <span> · </span>
     <a href="https://github.com/psparwez/JobHuntly/issues">Report Bug</a>
     <span> · </span>
