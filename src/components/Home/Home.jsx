@@ -158,7 +158,7 @@ const Home = () => {
             <div className="relative">
               <img
                 src={HeroImage}
-                className="lg:ml-auto lg:mx-0 block lg:flex w-[300px] mx-auto xl:w-[450px]"
+                className=" pl-12 lg:ml-auto lg:mx-0 h-[600px] block  lg:flex w-[500px] mx-auto xl:w-[550px]"
                 alt="Hero representation"
               />
               <div className="w-[280px] h-[716px] rotate-[64deg] bg-white absolute right-0 -bottom-[455px]" />

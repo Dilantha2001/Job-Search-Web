@@ -32,7 +32,7 @@ const Header = () => {
               />
             </div>
             <span className="font-redHatDisplay font-bold text-2xl leading-9 tracking-[-0.01em] text-left">
-              JobHuntly
+              JobRooster
             </span>
           </Link>
           {/* Desktop Navigation Links */}
