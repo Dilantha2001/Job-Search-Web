@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="public/og_image.webp" alt="JobHuntly Banner" width="800">
+  <img src="public/test.png" alt="JobHuntly Banner" width="800">
+  <img src="public/test1.png" alt="JobHuntly Banner" width="800">
 
   <h1>🚀 JobHuntly</h1>
   <p><strong>The Future of Job Searching — Modern, Fast, and Seamless.</strong></p>
